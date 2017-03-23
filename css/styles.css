@@ -8,7 +8,6 @@ h1 {
   background-color: rgb(51, 51, 51);
   color: rgb(255, 255, 255);
   text-align: center;
-  text-
   width: 100%;
   height: 3rem;
   padding: 10px 0 10px 0;
@@ -16,8 +15,11 @@ h1 {
 
 h2 {
   background-color: rgb(133, 254, 209);
-  width: 90%;
-  padding: 0px 10px 0 30px;
+  margin: 15px;
+  padding: 15px 10px 15px 30px;
+}
+.cover {
+  margin:
 }
 .box{
   background: white;
@@ -41,5 +43,22 @@ h2 {
 .picture{
   padding: 0 10px 10px 0;
   display: inline-block;
+
+}
+
+.button {
+    text-align: center;
+    background-color: rgb(255, 214, 0);
+    height: 38px;
+    padding: 10px 0 10px 0;
+
+}
+
+.footer {
+  background-color: rgb(40, 40, 40);
+color: rgb(255, 255, 255);
+text-align: center;
+height: 3rem;
+padding: 15px 0 10px 0;
 
 }
